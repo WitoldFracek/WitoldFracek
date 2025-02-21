@@ -84,7 +84,7 @@ stylistic nuances and enhancing author attribution.
 
 </details>
 
-## Batchelors Degree
+## Batchelor's Degree
 Applied Computer Science at Wrocław University of Science and Technology ([PWR](https://pwr.edu.pl)) (2019-2023).  
 **Batchelor's project:** A multilevel, multiplayer educational game, focused on explaining the genetic algorithm and its implementation in Python ([link](https://github.com/WitoldFracek/OnlyPWRfullSurvive_Unity2D)).
 
