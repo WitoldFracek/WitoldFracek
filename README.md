@@ -29,7 +29,7 @@ Currently working at [Capgemini](https://www.capgemini.com):
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -44,12 +44,28 @@ Currently working at [Capgemini](https://www.capgemini.com):
 **Description:** I worked in a small team on testing how different methods of text embedding influence the quality of retrieval augmented generation (RAG). Publication in review.
 
 # Education
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ## Master's Degree
 Artificial Inteligence major at Wrocław University of Science and Technology ([PWR](https://pwr.edu.pl)) (2023-2024).  
 **Master's Thesis:** *Grammatical embedding of texts and its applications in clusterization, visualization and classification of texts in Polish*
 <details>
 
-<summary>### Abstract</summary>
+<summary>Abstract</summary>
 The work investigates the effectiveness of grammatical embeddings of texts (grembeddings)
 in the tasks of clustering, classification, and visualization of texts in Polish. Grembeddings,
 unlike semantic vectorization, represent texts based on their grammatical structure, capturing
@@ -70,20 +86,29 @@ stylistic nuances and enhancing author attribution.
 
 ## Batchelors Degree
 Applied Computer Science at Wrocław University of Science and Technology ([PWR](https://pwr.edu.pl)) (2019-2023).  
-**Batchelor's thesis:** A multilevel, multiplayer educational game, focused on explaining the genetic algorithm and its implementation in Python ([link](https://github.com/WitoldFracek/OnlyPWRfullSurvive_Unity2D)).
+**Batchelor's project:** A multilevel, multiplayer educational game, focused on explaining the genetic algorithm and its implementation in Python ([link](https://github.com/WitoldFracek/OnlyPWRfullSurvive_Unity2D)).
 
 
-<!--
-**WitoldFracek/WitoldFracek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Personal Projects
+Additional skills learnt during personal projects:  
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-Here are some ideas to get you started:
+## Qwery List (QList)
+Qwery List is a small library introducing a new way to use higher order functions with lists, with lazy evaluation. It allows to chain well known python functions such as map, filter and reduce.
+For further details visit the [PyPi page](https://pypi.org/project/qwlist/) or the official [documentation](https://witoldfracek.github.io/qlist/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ASCII Movie Converter
+Simple commandline application for converting mp4 movies to videos of frames made out of ascii characters ([link](https://github.com/WitoldFracek/AsciiMovieConverter))
+
+## Checkers Engine in Rust
+Implementation of [minmax](https://en.wikipedia.org/wiki/Minimax) algorithm to play 
+classic [checkers](https://en.wikipedia.org/wiki/Checkers). Code written purely in Rust with multithreading
+optimisations and alpha-beta pruning optimization.
+
+## Generic Constraint Satisfaction Problem Solver Implementation in Rust
+A framework that handles [CSP](https://en.wikipedia.org/wiki/Constraint_satisfaction_problem) written purely in Rust ([link](https://github.com/WitoldFracek/CSP_Rust)).
