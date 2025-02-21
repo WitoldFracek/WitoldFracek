@@ -43,6 +43,35 @@ Currently working at [Capgemini](https://www.capgemini.com):
 **Role:** Data Scientist, Researcher  
 **Description:** I worked in a small team on testing how different methods of text embedding influence the quality of retrieval augmented generation (RAG). Publication in review.
 
+# Education
+## Master's Degree
+Artificial Inteligence major at Wrocław University of Science and Technology ([PWR](https://pwr.edu.pl)) (2023-2024).  
+**Master's Thesis:** *Grammatical embedding of texts and its applications in clusterization, visualization and classification of texts in Polish*
+<details>
+
+<summary>### Abstract</summary>
+The work investigates the effectiveness of grammatical embeddings of texts (grembeddings)
+in the tasks of clustering, classification, and visualization of texts in Polish. Grembeddings,
+unlike semantic vectorization, represent texts based on their grammatical structure, capturing
+syntactic and morphological features. The study explores the application of grembeddings in
+combination with various traditional and deep learning-based vectorization techniques, 
+including Bag-of-Words, TF-IDF, and variants of BERT. The research utilizes seven diverse Polish
+datasets, encompassing literary texts, newspaper articles, social media posts, and fanfiction
+stories, with varying levels of semantic similarity and authorial styles. The experimental results
+demonstrate the effectiveness of grembeddings in author identification tasks, especially for
+texts with similar semantics but different writing styles. In tasks requiring thematic analysis,
+semantic embeddings outperformed grembeddings, highlighting the importance of semantic
+information in clustering and classification. The results suggest that grembeddings are a
+valuable complement to traditional text representation methods, particularly in capturing
+stylistic nuances and enhancing author attribution.
+
+
+</details>
+
+## Batchelors Degree
+Applied Computer Science at Wrocław University of Science and Technology ([PWR](https://pwr.edu.pl)) (2019-2023).  
+**Batchelor's thesis:** A multilevel, multiplayer educational game, focused on explaining the genetic algorithm and its implementation in Python ([link](https://github.com/WitoldFracek/OnlyPWRfullSurvive_Unity2D)).
+
 
 <!--
 **WitoldFracek/WitoldFracek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
