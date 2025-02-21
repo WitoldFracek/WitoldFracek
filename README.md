@@ -33,6 +33,17 @@ Currently working at [Capgemini](https://www.capgemini.com):
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+## Projects
+### Global Data Science Challenge ([GSDC](https://www.capgemini.com/insights/research-library/global-data-science-challenge/)) 2024
+**Role:** Lead Data Scientist  
+**Description:** I was one of the organizers of GDSC. It is an annual, purpose-driven hackathon that brings together thousands of participants globally to tackle real-world challenges using AI.
+2024 edition focused on agentic AI systems, and in cooperation with UNESCO, tackled problems in worldwide education and reading skills.
+
+### Retrival Augmented Generation Research Team
+**Role:** Data Scientist, Researcher  
+**Description:** I worked in a small team on testing how different methods of text embedding influence the quality of retrieval augmented generation (RAG). Publication in review.
+
+
 <!--
 **WitoldFracek/WitoldFracek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
