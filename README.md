@@ -34,6 +34,10 @@ Currently working at [Capgemini](https://www.capgemini.com):
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Projects
+### Gates Open Research ([link](https://gatesopenresearch.org/posters/6-147))
+**Role:** Data Scientist  
+**Description:** Automation of histological analysis of [onchocerciasis](https://www.who.int/news-room/fact-sheets/detail/onchocerciasis) nodules with artificial intelligence.
+
 ### Global Data Science Challenge ([GSDC](https://www.capgemini.com/insights/research-library/global-data-science-challenge/)) 2024
 **Role:** Lead Data Scientist  
 **Description:** I was one of the organizers of GDSC. It is an annual, purpose-driven hackathon that brings together thousands of participants globally to tackle real-world challenges using AI.
